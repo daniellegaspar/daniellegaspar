@@ -14,9 +14,8 @@
   💼 Ferramentas: <strong>VS Code, PowerBI, MySQL e VisualG.</strong>
 </p>
 
-Por aqui quero praticar e compartilhar meus estudos. Sinta-se à vontade para deixar qualquer dúvida, dica ou feedback me chamando no linkedin ou instagram.
-
-<br>
+Aqui vou compartilhar um pouco dos meus estudos e praticar. 
+</br>
 
 <p align="left">
   <a href="https://www.instagram.com/danielleaquinog/" alt="Instagram">
