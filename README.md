@@ -4,10 +4,10 @@
 <img align='right' src="https://o.remove.bg/downloads/a797d99c-1ec4-4f2b-9f0e-1b92eb6dd38c/data_science-removebg-preview.png" width="230">
 
 <p align="left">
-💻<strong>Estudante de Análise e Desenvolvimento de Sistemas.</strong>
+💻<strong>Estudante de Análise e Desenvolvimento de Sistemas (2º semestre).</strong>
   
 **Áreas de interesse:** Ciência de Dados  
-**Estudando atualmente:** Lógica de Programação, Python e Banco de dados
+**Estudando atualmente:** Lógica de Programação e Banco de dados
 </p>
 
 <p align="left">
