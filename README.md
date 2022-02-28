@@ -7,11 +7,11 @@
 💻<strong>Estudante de Análise e Desenvolvimento de Sistemas (2º semestre).</strong>
   
 **Áreas de interesse:** Ciência de Dados  
-**Estudando atualmente:** Lógica de Programação e Banco de dados
+**Estudando atualmente:** Banco de dados e Python para Análise de Dados
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, PowerBI, MySQL e VisualG.</strong>
+  💼 Ferramentas: <strong>VS Code, PowerBI e MySQL.</strong>
 </p>
 
 Aqui vou compartilhar um pouco dos meus estudos e praticar. 
