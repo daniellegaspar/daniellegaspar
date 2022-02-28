@@ -4,7 +4,8 @@
 <img align='right' src="https://user-images.githubusercontent.com/86385596/152854209-7bd29b64-1fcd-4e01-ae4f-8e6110c807a2.png" width="200">
 
 <p align="left">
-💻<strong>Estudante de Análise e Desenvolvimento de Sistemas (2º semestre).</strong>
+💻<strong>Estudante de Análise e Desenvolvimento de Sistemas (2º semestre), e tenho como meta futura atuar
+como cientista de dados, portanto além da faculdade estudo paralelamente assuntos relacionados à Ciencias de Dados</strong>
   
 **Áreas de interesse:** Ciência de Dados  
 **Estudando atualmente:** Banco de dados e Python para Análise de Dados
