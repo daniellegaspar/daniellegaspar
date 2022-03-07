@@ -12,7 +12,7 @@ como cientista de dados, portanto além da faculdade estudo paralelamente assunt
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, PowerBI e MySQL.</strong>
+  💼 Ferramentas: <strong>VS Code, PowerBI, MySQL e PyCharm</strong>
 </p>
 
 Aqui vou compartilhar um pouco dos meus estudos e praticar. 
