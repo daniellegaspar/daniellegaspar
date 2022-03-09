@@ -5,7 +5,7 @@
 
 <p align="left">
 💻<strong>Sou estudante e tenho como meta futura atuar
-como cientista de dados, portanto além da faculdade estudo paralelamente assuntos relacionados à Ciencias de Dados</strong>
+como cientista de dados,  atualmente estudo assuntos relacionados à Ciencias de Dados</strong>
   
 **Áreas de interesse:** Ciência de Dados  
 **Estudando atualmente:** Python para Análise de Dados
