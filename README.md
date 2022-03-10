@@ -4,8 +4,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/86385596/152854209-7bd29b64-1fcd-4e01-ae4f-8e6110c807a2.png" width="200">
 
 <p align="left">
-💻<strong>Sou estudante e tenho como meta futura atuar
-como cientista de dados,  atualmente estudo assuntos relacionados à Ciencias de Dados</strong>
+💻<strong>Sou estudante e tenho como meta futura atuar como cientista de dados,  atualmente estudo assuntos relacionados à Ciencias de Dados</strong>
   
 **Áreas de interesse:** Ciência de Dados  
 **Estudando atualmente:** Python para Análise de Dados
