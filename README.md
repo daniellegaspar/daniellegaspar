@@ -17,7 +17,7 @@
 Aqui vou compartilhar um pouco dos meus estudos e praticar. 
 </br>
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/danielleaquinog/" alt="Instagram">
  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
