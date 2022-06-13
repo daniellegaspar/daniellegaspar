@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, PowerBI, MySQL, Jupyter Notebook e PyCharm</strong>
+  💼 Ferramentas: <strong>PowerBI, MySQL, Excel</strong>
 </p>
 
 Aqui vou compartilhar um pouco dos meus estudos e praticar. 
