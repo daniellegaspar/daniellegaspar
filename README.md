@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>PowerBI, MySQL, Excel, Alteryx</strong>
+  💼 Ferramentas: <strong>PowerBI, SQL, Excel, Alteryx</strong>
 </p>
 
 Aqui vou compartilhar um pouco dos meus estudos e praticar. 
