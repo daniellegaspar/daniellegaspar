@@ -7,7 +7,7 @@
 💻<strong>Sou estudante de Data Analytics.</strong>
   
 
-**Estudando atualmente:** Bootcamp Data Analytics (Programa de formação do iFood em parceria com a Digital House)
+**Estudando atualmente:** SQL e em breve iniciarei meu MBA em Data Science e Analytics
 </p>
 
 <p align="left">
