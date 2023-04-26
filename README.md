@@ -7,7 +7,7 @@
 💻<strong>Sou estudante de Data Analytics.</strong>
   
 
-**Estudando atualmente:** SQL e em breve iniciarei meu MBA em Data Science e Analytics
+**Estudando atualmente:** Engenharia de Software e SQL.
 </p>
 
 <p align="left">
