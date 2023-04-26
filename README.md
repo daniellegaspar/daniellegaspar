@@ -4,7 +4,7 @@
 <img align='Right' src="https://user-images.githubusercontent.com/86385596/152854209-7bd29b64-1fcd-4e01-ae4f-8e6110c807a2.png" width="200">
 
 <p align="left">
-💻<strong>Sou estudante de Data Analytics.</strong>
+💻<strong>Sou estudante de Dados.</strong>
   
 
 **Estudando atualmente:** Engenharia de Software e SQL.
