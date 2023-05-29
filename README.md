@@ -7,7 +7,7 @@
 💻<strong>Sou estudante de Engenharia de Software.</strong>
   
 
-**Estudando atualmente:** Engenharia de Software e SQL.
+
 </p>
 
 <p align="left">
